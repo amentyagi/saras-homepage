@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="510" viewBox="0 0 610 510" fill="none">
+  <!-- Placeholder learner portrait: neutral head-and-shoulders silhouette on a transparent background. Replace with a real photo. -->
+  <defs>
+    <linearGradient id="g" x1="305" y1="90" x2="305" y2="510" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b8496"/>
+      <stop offset="1" stop-color="#5a5168"/>
+    </linearGradient>
+  </defs>
+  <circle cx="305" cy="200" r="98" fill="url(#g)"/>
+  <path d="M95 510c0-118 94-196 210-196s210 78 210 196z" fill="url(#g)"/>
+</svg>

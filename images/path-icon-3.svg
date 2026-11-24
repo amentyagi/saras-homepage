@@ -1,0 +1,31 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="13 1" clip-path="url(#clip0_0_9)">
+<g id="Union" filter="url(#filter0_d_0_9)">
+<path d="M21.5889 4.18164L4.62109 21.2988L21.5889 38.415V21.2988H55.5254V55.5322H38.5576L55.5254 38.415L38.5576 21.2988V38.415H21.5889L38.5576 55.5322H21.5889V38.415H4.62109V4.18164H21.5889Z" fill="url(#paint0_linear_0_9)"/>
+<path d="M38.5576 21.2988L21.5889 4.18164H38.5576V21.2988Z" fill="url(#paint1_linear_0_9)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_9" x="-65.3789" y="-65.8184" width="190.904" height="191.351" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="35"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.998948 0 0 0 0 0.998948 0 0 0 0 0.998948 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_9"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_9" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_9" x1="30.0492" y1="7.91074" x2="30.0493" y2="50.256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FC413D"/>
+<stop offset="1" stop-color="#740FB2"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_9" x1="30.0492" y1="7.91074" x2="30.0493" y2="50.256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FC413D"/>
+<stop offset="1" stop-color="#740FB2"/>
+</linearGradient>
+<clipPath id="clip0_0_9">
+<rect width="60" height="60" fill="white"/>
+</clipPath>
+</defs>
+</svg>
